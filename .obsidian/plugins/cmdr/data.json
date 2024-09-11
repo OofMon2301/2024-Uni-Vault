@@ -1,0 +1,56 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:ff078bb4-a685-4fa5-afd3-6c0259e3e3b9",
+      "icon": "book",
+      "name": "QuickAdd: New Subject",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "quickadd:choice:0e908f6f-46dd-4395-b8a4-c9fb4702adfa",
+      "icon": "plus",
+      "name": "New Lecture",
+      "mode": "aa0e12c53c803103",
+      "color": "#ffffff"
+    },
+    {
+      "id": "quickadd:choice:31c84671-f907-432f-be95-f14fe867c18e",
+      "icon": "bookmark-plus",
+      "name": "QuickAdd: New Definition",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "backlink",
+      "various-complements",
+      "obsidian-git",
+      "obsidian-git",
+      "properties"
+    ],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "61f210a3e75bc5fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e81a72484494b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a05ccb297d1718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Method of successive approximations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9de9ace4f25fb458",
+    "type": "split",
+    "children": [
+      {
+        "id": "631fd72ade8ce58d",
+        "type": "tabs",
+        "dimension": 78.0701754385965,
+        "children": [
+          {
+            "id": "acfa305c99aa7427",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9086fba33c94ae1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lecture 2.2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2212a50ed69311f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "df02d460763d3163",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a14c5693f5463fc1",
+        "type": "tabs",
+        "dimension": 21.929824561403507,
+        "children": [
+          {
+            "id": "e3f77537e0ebace8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Method of successive approximations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bbad5c880586bc53",
+    "type": "split",
+    "children": [
+      {
+        "id": "413c01d99c7ceb6f",
+        "type": "tabs",
+        "dimension": 77.30263157894737,
+        "children": [
+          {
+            "id": "d88819423420f4ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "2379b75c2ed6f65f",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "970c0ebe784733ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c947ed0d8dcc448",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f30f1ef1d6f129cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Method of successive approximations.md"
+              }
+            }
+          },
+          {
+            "id": "b047c8b6c8034222",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "b2e398d710777b6e",
+        "type": "tabs",
+        "dimension": 22.697368421052634,
+        "children": [
+          {
+            "id": "981b75af9e493464",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Method of successive approximations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a94b1fa819925d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Method of successive approximations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "obsidian42-brat:BRAT": false,
+      "cmdr:QuickAdd: New Subject": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "pieces-for-developers:Pieces For Developers": false,
+      "quartz-syncer:Quartz Syncer Publication Center": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "96a05ccb297d1718",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Method of successive approximations.md",
+    "2024/Semester 2/MATH2001/Solutions of First Order ODEs.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "2024/Semester 2/MATH2001/Solution of First Order ODE.md",
+    "2024/Semester 2/CSSE2310/More C.md",
+    "2024/Semester 2/MATH2001",
+    "Equivalence with Integral Equation.md",
+    "Successive Approximations.md",
+    "Existence and Uniqueness Criteria.md",
+    "2024/Semester 2/CSSE2002/Sequences.md",
+    "2024/Semester 2/CSSE2310/Printf.md",
+    "2024/Semester 2/CSSE2310/Code Compilation.md",
+    "Random Stuff/Templates/Classes.md",
+    "2024/Semester 1/MATH2400/Week 3/Lecture 1 - Monotone Convergence Theorem.md",
+    "2024/Semester 2/CSSE2310/Main Parameters.md",
+    "temp.cpp",
+    "2024/Semester 2/Semester 2.md",
+    "obsidian-execute-code-c-support.log",
+    "obsidian-execute-code-c-support.exe",
+    "Subversion.md",
+    "funny.md",
+    "2024/Semester 2/CSSE2310/Subversion Control.md",
+    "2024/Semester 2/CSSE2310/Subversion.md",
+    "2024/Semester 2/CSSE2310/Untitled 12.md",
+    "Version Control.md",
+    "Random Stuff/Templates/Lecture.md",
+    "Untitled 10.md",
+    "Untitled 7.md",
+    "2024 Uni Vault",
+    "New folder",
+    "quartz/quartz/plugins/filters/index.ts",
+    "quartz/quartz/plugins/filters/explicit.ts",
+    "quartz/quartz/plugins/filters/draft.ts",
+    "quartz/quartz/plugins/transformers/toc.ts",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/quartz layout.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "quartz/docs/images/giscus-results.png",
+    "quartz/docs/images/giscus-repo.png",
+    "quartz/docs/images/giscus-example.png",
+    "quartz/docs/images/giscus-discussion.png"
+  ]
+}
